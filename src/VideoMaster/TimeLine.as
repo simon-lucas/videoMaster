@@ -1,0 +1,1 @@
+﻿package VideoMaster {		import flash.display.MovieClip;			public class TimeLine extends MovieClip {						public function TimeLine() {			// constructor code		}	}	}

@@ -1,0 +1,1 @@
+﻿package StateMachine{		public interface IState	{		function enter():void;		function update(tickCount:uint):void;		function exit():void;	}}

@@ -1,0 +1,1 @@
+﻿package data{public class CSVData extends Object{	public var name, type, artist, title, group, note, date, image, copyright, keyImage:String	public function CSVData()	{		super();	}	}}
